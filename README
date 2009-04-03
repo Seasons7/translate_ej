@@ -1,0 +1,16 @@
+**********************************************************
+Translate English to Japanese.
+This engine is used Infoseek translate engine.
+
+Date : 2009/04/04
+File : translate_ej.rb
+Owner: Seasons
+**********************************************************
+# --------------------------------------------------------
+# usage 
+# --------------------------------------------------------
+# % chmod 755 translate_ej.rb #=> Once typing!!
+# % ./translate_ej "**** type translate sentece *****"
+#
+# You can get Japanese sentence.
+# --------------------------------------------------------
